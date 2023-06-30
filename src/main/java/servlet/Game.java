@@ -201,7 +201,6 @@ public class Game extends HttpServlet {
 			out.println("<p>"+correct_str+"こたえ<br></p>");
 			out.println("<div style=\"text-align:center\"><button onclick=\"location.href='http://localhost:8080/game0519/gameForm.jsp'\"style=\"width:100px;height:40px\" >もう一度挑戦！</button></div>");
 			out.println("</body>");
-			out.println("hello");
 			out.println("</html>");
 			out.println();
 			
